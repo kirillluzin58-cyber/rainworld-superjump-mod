@@ -1,0 +1,12 @@
+{
+  "id": "author.superjump",
+  "name": "Super Jump",
+  "version": "1.0.0",
+  "authors": "You",
+  "target_game_version": "v1.9",
+  "description": "Прыжок выше и бег быстрее. Настройки в меню Remix.",
+  "tags": [],
+  "requirements": [],
+  "requirements_names": [],
+  "checksum_override_version": false
+}
